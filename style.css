@@ -57,6 +57,14 @@ button {
     justify-items: center;
 }
 
+.box {
+    background-color: lightgray;
+}
+
+.boxActive {
+    background-color: darkslategray;
+}
+
 
 /* IDs */
 #viewport {
